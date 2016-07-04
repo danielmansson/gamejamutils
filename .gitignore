@@ -1,0 +1,15 @@
+Library
+Temp
+obj
+builds
+Assets/UnityVS
+Assets/UnityVS.meta
+
+*.unityproj
+*.userprefs
+*.sln
+*.sln.DotSettings
+*.csproj
+*.suo
+.DS_Store
+.mayaSwatches
